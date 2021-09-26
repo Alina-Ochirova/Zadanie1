@@ -1,0 +1,23 @@
+.header {
+	padding: 50px 100px;
+	text-align: center;
+	background: #FF4500;
+	font-size: 32px;
+	font-family: Sans-Serif;
+}
+.main {
+	background: #4682B4;
+	padding: 100px;	
+	font-size: 38px;
+	color: #FFD700;
+	font-family: Sans-Serif;
+	text-align: center;
+}
+.footer {
+	background: #E6E6FA;
+	padding: 30px; 100px;	
+	font-size: 32px;
+	color: #FFD700;
+	font-family: Sans-Serif;
+	text-align: center;
+}
